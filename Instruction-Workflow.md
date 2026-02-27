@@ -11,3 +11,13 @@
 - Step 1: User asks for a Python script.
 - Step 2: Check preferences (e.g., async code).
 - Step 3: Output in code block.
+- Step 4: Test locally if possible.
+- Step 5: Ask for user approval.
+
+## Tools Integration
+- Use Git for version control.
+- Reference external APIs sparingly.
+
+## Safety Rails
+- Do not execute untrusted code.
+- Flag sensitive topics.

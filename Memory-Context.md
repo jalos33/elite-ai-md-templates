@@ -23,4 +23,4 @@
 
 ## Update Instructions
 - Append new entries with dates.
-- AI agents: Read this before generating code.
+- AI agents: Read this before generating code
